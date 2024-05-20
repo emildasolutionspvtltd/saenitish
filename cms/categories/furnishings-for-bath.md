@@ -5,12 +5,12 @@ f_heading: >-
   beatae impedit incidunt occaecati v
 f_picture:
   url: >-
-    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/663103ac123160b94624f03e_pexels-home-decor-interiors-634144-1827054.jpg
+    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/664b2c1c7afaba162fa57b76_12233.jpg
   alt: null
 slug: furnishings-for-bath
-updated-on: '2024-05-02T07:48:17.995Z'
+updated-on: '2024-05-20T10:55:27.463Z'
 created-on: '2024-04-25T04:05:41.365Z'
-published-on: '2024-05-02T12:48:02.820Z'
+published-on: '2024-05-20T10:58:42.161Z'
 f_products:
   - cms/products/bed-cover.md
   - cms/products/bedspreads.md

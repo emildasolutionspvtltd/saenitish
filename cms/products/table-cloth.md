@@ -1,9 +1,9 @@
 ---
 title: Table Cloth
 slug: table-cloth
-updated-on: '2024-05-15T07:52:08.576Z'
+updated-on: '2024-05-20T10:50:36.286Z'
 created-on: '2024-04-30T14:28:02.315Z'
-published-on: '2024-05-16T07:39:13.646Z'
+published-on: '2024-05-20T10:58:42.161Z'
 f_image-1:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2c402c5853093e89a92_71t8RAVfCvL._AC_UF894%2C1000_QL80_.jpg

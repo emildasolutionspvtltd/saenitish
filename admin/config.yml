@@ -3,7 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -995,10 +995,10 @@ collections:
             name: 67754c4e
             widget: string
           - hint: >-
-              Original text: At See Angalamman Exports, we understand the
-              importance of staying ahead of the curve. , key: -4ec2f60f
+              Original text: At Sree Angalamman Exports, we understand the
+              importance of staying ahead of the curve. , key: 3262aa8b
             label: Text
-            name: '-4ec2f60f'
+            name: 3262aa8b
             widget: string
           - hint: >-
               Original text: With a state-of-the-art infrastructure and a team
@@ -1019,11 +1019,11 @@ collections:
             name: '-32e31931'
             widget: string
           - hint: >-
-              Original text: Choose See Angalamman Exports for top-tier home
+              Original text: Choose Sree Angalamman Exports for top-tier home
               furnishings. We deliver quality, style, and service in every
-              piece, backed by three decades of excellence., key: -72e8b96a
+              piece, backed by three decades of excellence., key: 72b97774
             label: Text
-            name: '-72e8b96a'
+            name: 72b97774
             widget: text
           - hint: 'Original text: Our Management, key: -35727e29'
             label: Text
