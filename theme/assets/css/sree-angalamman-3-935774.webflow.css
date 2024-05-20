@@ -386,6 +386,7 @@ body {
   font-size: 1.05rem;
   font-weight: 500;
   line-height: 1.5;
+  text-decoration: none;
 }
 
 .features__paragraph.whitebg {
@@ -1066,7 +1067,7 @@ body {
 .image-16 {
   width: auto;
   max-width: 200px;
-  max-height: 150px;
+  max-height: 130px;
   padding-top: 20px;
   padding-bottom: 10px;
 }
@@ -6555,6 +6556,10 @@ body {
     margin-right: auto;
   }
 
+  .image-16 {
+    max-height: 130px;
+  }
+
   .multipleblogs, .blog {
     padding-top: 0;
     padding-bottom: 0;
@@ -7842,6 +7847,11 @@ body {
   .collection-item {
     width: auto;
     margin-bottom: 0;
+  }
+
+  .image-16 {
+    max-width: 170px;
+    max-height: 120px;
   }
 
   .multipleblogs {
