@@ -8,20 +8,14 @@ f_picture:
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/664b2c1c7afaba162fa57b76_12233.jpg
   alt: null
 slug: furnishings-for-bath
-updated-on: '2024-05-20T10:55:27.463Z'
+updated-on: '2024-05-25T13:34:00.321Z'
 created-on: '2024-04-25T04:05:41.365Z'
 published-on: '2024-05-20T10:58:42.161Z'
 f_products:
-  - cms/products/bed-cover.md
-  - cms/products/bedspreads.md
-  - cms/products/bed-quilt.md
-  - cms/products/curtains.md
-  - cms/products/curtain-valance.md
-  - cms/products/duvet-cover.md
-  - cms/products/floor-cushion.md
-  - cms/products/bags.md
-  - cms/products/throws.md
-  - cms/products/pillow-cover.md
+  - cms/products/shower-curtains.md
+  - cms/products/bath-towels.md
+  - cms/products/face-towels.md
+  - cms/products/hand-towels.md
 f_index: 4
 layout: '[categories].html'
 tags: categories

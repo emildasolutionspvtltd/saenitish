@@ -7,7 +7,7 @@ f_products:
   - cms/products/potholders.md
   - cms/products/tea-cozy.md
   - cms/products/kitchen-towel.md
-updated-on: '2024-05-02T07:45:51.319Z'
+updated-on: '2024-05-25T11:23:38.544Z'
 created-on: '2024-04-30T14:34:02.450Z'
 published-on: '2024-05-02T12:48:02.820Z'
 f_picture:
